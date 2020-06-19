@@ -32,7 +32,7 @@ BigData fast solutions
     - c помощью RxJava (или аналога)
 
 Код:
-- Actors.kt - модель акторов
+- Rx.kt - с помощью RxJava
 - Data.kt - метод для создания файла 
 - Factorization.kt - метод факторизации числа
 - Multithreading.kt - методы для ускорения расчета количества чисел при факторизации чисел из файла
